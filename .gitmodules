@@ -1,9 +1,0 @@
-[submodule "libspl"]
-	path = libspl
-	url = https://github.com/noahorensa/libspl.git
-[submodule "libclip"]
-	path = libclip
-	url = https://github.com/dacap/clip.git
-[submodule "libcryptopp"]
-	path = libcryptopp
-	url = https://github.com/weidai11/cryptopp.git
